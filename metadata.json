@@ -1,0 +1,7 @@
+{
+  "name": "TokenForge - Web3 Token Issuance Platform",
+  "description": "A comprehensive, AI-powered platform for defining, modeling, and deploying custom ERC-20, ERC-721, and ERC-1155 smart contracts with built-in tokenomics simulation and governance tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
